@@ -1,0 +1,36 @@
+{
+  "appTitle": "ChronoPlay",
+
+  "homeReadyTitle": "Pronto para jogar?",
+  "homeSubtitle": "Escaneie uma carta, coloque o celular com a tela para baixo\ne escute com atenção.",
+  "homeStartGame": "Iniciar jogo",
+  "homeHowToPlay": "Como jogar",
+
+  "faceDownTitle": "Prepare-se",
+  "faceDownInstruction": "Coloque o celular com a tela para baixo",
+  "faceDownSubtitle": "A música começará automaticamente",
+
+  "howToPlayTitle": "Como jogar",
+  "howToPlayCoreRules": "Regras básicas",
+  "howToPlayOptionalTokens": "Opcional: Fichas",
+  "howToPlayTagline": "Construa sua linha do tempo musical e reviva os momentos.",
+
+  "ruleStartCard": "Cada jogador começa com uma carta de música posicionada à sua frente.",
+  "ruleScanCard": "Escaneie uma nova carta\nAponte a câmera para o QR code para iniciar a música.",
+  "ruleFaceDown": "Coloque o celular com a tela para baixo\nA música começará automaticamente.",
+  "ruleListen": "Escute com atenção\nNada de espiar o título ou o ano.",
+  "ruleTimeline": "Coloque a carta na sua linha do tempo\nDecida se ela vem antes, depois ou entre as cartas que você já tem.",
+  "ruleReveal": "Vire a carta para revelar o ano\nSe você acertar a posição, fica com a carta.",
+  "ruleWin": "O primeiro jogador a chegar a 10 cartas vence o jogo.",
+
+  "tokensIntro": "Para um jogo mais estratégico, os jogadores podem usar fichas.",
+  "tokenSkip": "No seu turno:\nGaste 1 ficha para pular a música atual e comprar uma nova carta.",
+  "tokenSteal": "No turno de um oponente:\nColoque uma ficha na linha do tempo dele se achar que a carta foi posicionada incorretamente.\nSe estiver certo, roube a carta.",
+  "tokenTrade": "A qualquer momento:\nTroque 3 fichas por uma carta do baralho e coloque-a diretamente na sua linha do tempo.",
+  "tokenEarn": "Ganhando fichas:\nDiga corretamente o nome da música e do artista para ganhar 1 ficha, mesmo se errar a posição da carta.\nMáximo: 5 fichas por jogador.",
+
+  "playerListening": "Ouvindo",
+  "playerNextCard": "Próxima carta",
+
+  "scannerTitle": "Escanear carta"
+}
