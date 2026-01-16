@@ -32,5 +32,13 @@
   "playerListening": "Listening",
   "playerNextCard": "Next card",
 
+  "settingsTitle": "Settings",
+  "settingsDurationLabel": "Playback duration",
+  "settingsNoLimit": "Full song",
+  "settingsStartAt": "Start playback at",
+  "settingsExperimental": "Experimental",
+  "settingsBackTapTitle": "Double tap to pause",
+  "settingsBackTapDescription": "Pause or resume the music by tapping twice on the back of your phone while it is face down. This feature may not work consistently on all devices.",
+
   "scannerTitle": "Scan card"
 }

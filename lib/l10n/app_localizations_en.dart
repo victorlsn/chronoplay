@@ -87,5 +87,26 @@ class AppLocalizationsEn extends AppLocalizations {
   String get playerNextCard => 'Next card';
 
   @override
+  String get settingsTitle => 'Settings';
+
+  @override
+  String get settingsDurationLabel => 'Playback duration';
+
+  @override
+  String get settingsNoLimit => 'Full song';
+
+  @override
+  String get settingsStartAt => 'Start playback at';
+
+  @override
+  String get settingsExperimental => 'Experimental';
+
+  @override
+  String get settingsBackTapTitle => 'Double tap to pause';
+
+  @override
+  String get settingsBackTapDescription => 'Pause or resume the music by tapping twice on the back of your phone while it is face down. This feature may not work consistently on all devices.';
+
+  @override
   String get scannerTitle => 'Scan card';
 }

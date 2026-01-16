@@ -32,5 +32,13 @@
   "playerListening": "Ouvindo",
   "playerNextCard": "Próxima carta",
 
+  "settingsTitle": "Configurações",
+  "settingsDurationLabel": "Duração da reprodução",
+  "settingsNoLimit": "Música completa",
+  "settingsStartAt": "Iniciar reprodução em",
+  "settingsExperimental": "Experimental",
+  "settingsBackTapTitle": "Toque duplo para pausar",
+  "settingsBackTapDescription": "Pause ou retome a música tocando duas vezes na parte de trás do celular enquanto ele estiver com a tela para baixo. Este recurso pode não funcionar de forma consistente em todos os dispositivos.",
+
   "scannerTitle": "Escanear carta"
 }

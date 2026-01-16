@@ -87,5 +87,26 @@ class AppLocalizationsPt extends AppLocalizations {
   String get playerNextCard => 'Próxima carta';
 
   @override
+  String get settingsTitle => 'Configurações';
+
+  @override
+  String get settingsDurationLabel => 'Duração da reprodução';
+
+  @override
+  String get settingsNoLimit => 'Música completa';
+
+  @override
+  String get settingsStartAt => 'Iniciar reprodução em';
+
+  @override
+  String get settingsExperimental => 'Experimental';
+
+  @override
+  String get settingsBackTapTitle => 'Toque duplo para pausar';
+
+  @override
+  String get settingsBackTapDescription => 'Pause ou retome a música tocando duas vezes na parte de trás do celular enquanto ele estiver com a tela para baixo. Este recurso pode não funcionar de forma consistente em todos os dispositivos.';
+
+  @override
   String get scannerTitle => 'Escanear carta';
 }

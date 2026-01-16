@@ -251,6 +251,48 @@ abstract class AppLocalizations {
   /// **'Next card'**
   String get playerNextCard;
 
+  /// No description provided for @settingsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Settings'**
+  String get settingsTitle;
+
+  /// No description provided for @settingsDurationLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Playback duration'**
+  String get settingsDurationLabel;
+
+  /// No description provided for @settingsNoLimit.
+  ///
+  /// In en, this message translates to:
+  /// **'Full song'**
+  String get settingsNoLimit;
+
+  /// No description provided for @settingsStartAt.
+  ///
+  /// In en, this message translates to:
+  /// **'Start playback at'**
+  String get settingsStartAt;
+
+  /// No description provided for @settingsExperimental.
+  ///
+  /// In en, this message translates to:
+  /// **'Experimental'**
+  String get settingsExperimental;
+
+  /// No description provided for @settingsBackTapTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Double tap to pause'**
+  String get settingsBackTapTitle;
+
+  /// No description provided for @settingsBackTapDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Pause or resume the music by tapping twice on the back of your phone while it is face down. This feature may not work consistently on all devices.'**
+  String get settingsBackTapDescription;
+
   /// No description provided for @scannerTitle.
   ///
   /// In en, this message translates to:
